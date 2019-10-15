@@ -10,4 +10,3 @@ jobs:
       - checkout
       - run: Write-Host 'Goodbye, Windows. For I am blocked'
       - run: Write-Host 'Hello darkness my old friend'
-      - run: Write-Host 'Hi phil!'
